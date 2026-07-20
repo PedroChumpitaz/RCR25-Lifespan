@@ -20,7 +20,7 @@ implementation.
 
 Run from the repository root:
 
-    python src/reproduce_results.py
+    python src/estimate_lifespans.py
 
 Outputs are written to reproduced/ by default. Existing reported results in
 results/ are never overwritten.

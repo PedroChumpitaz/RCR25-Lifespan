@@ -12,7 +12,7 @@ use neutral names that describe the analysis.
 data/enaho_module_18/                  Compressed ENAHO module 18 files, 2008–2024
 results/weibull_mixture_estimates.csv  Reported mixture estimates
 results/ownership_penetration_2008_2024.csv
-src/reproduce_results.py               Reproduction script
+src/estimate_lifespans.py               Reproduction script
 requirements.txt                       Tested Python dependencies
 ```
 
@@ -64,7 +64,7 @@ python -m pip install -r requirements.txt
 Run the complete analysis from the repository root:
 
 ```bash
-python src/reproduce_results.py
+python src/estimate_lifespans.py
 ```
 
 The recomputed files and a comparison against the reported estimates will be
@@ -79,8 +79,8 @@ reproduced/comparison_summary.txt
 Run only one part of the analysis with:
 
 ```bash
-python src/reproduce_results.py --task fit
-python src/reproduce_results.py --task ownership
+python src/estimate_lifespans.py --task fit
+python src/estimate_lifespans.py --task ownership
 ```
 
 ## Output convention
