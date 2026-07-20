@@ -1,0 +1,205 @@
+artifact_code,artifact,year,ownership_percent
+1,Radio,2008,62.9
+1,Radio,2009,63.1
+1,Radio,2010,62.4
+1,Radio,2011,59.6
+1,Radio,2012,59.4
+1,Radio,2013,59.9
+1,Radio,2014,55.2
+1,Radio,2015,56.7
+1,Radio,2016,54.0
+1,Radio,2017,52.9
+1,Radio,2018,50.6
+1,Radio,2019,51.7
+1,Radio,2020,55.8
+1,Radio,2021,50.1
+1,Radio,2022,47.9
+1,Radio,2023,48.5
+1,Radio,2024,46.4
+2,Color TV,2008,64.8
+2,Color TV,2009,69.0
+2,Color TV,2010,70.2
+2,Color TV,2011,69.8
+2,Color TV,2012,72.7
+2,Color TV,2013,73.8
+2,Color TV,2014,74.0
+2,Color TV,2015,79.1
+2,Color TV,2016,79.2
+2,Color TV,2017,78.4
+2,Color TV,2018,77.3
+2,Color TV,2019,78.0
+2,Color TV,2020,80.3
+2,Color TV,2021,79.3
+2,Color TV,2022,77.1
+2,Color TV,2023,77.8
+2,Color TV,2024,75.5
+4,Sound System,2008,36.8
+4,Sound System,2009,36.5
+4,Sound System,2010,35.8
+4,Sound System,2011,33.0
+4,Sound System,2012,35.5
+4,Sound System,2013,35.1
+4,Sound System,2014,33.6
+4,Sound System,2015,35.4
+4,Sound System,2016,34.2
+4,Sound System,2017,33.5
+4,Sound System,2018,33.1
+4,Sound System,2019,32.8
+4,Sound System,2020,33.2
+4,Sound System,2021,31.2
+4,Sound System,2022,29.5
+4,Sound System,2023,29.5
+4,Sound System,2024,27.5
+5,DVD,2008,44.9
+5,DVD,2009,50.1
+5,DVD,2010,52.3
+5,DVD,2011,50.8
+5,DVD,2012,53.0
+5,DVD,2013,53.0
+5,DVD,2014,50.5
+5,DVD,2015,50.7
+5,DVD,2016,46.6
+5,DVD,2017,42.7
+5,DVD,2018,34.8
+5,DVD,2019,30.4
+5,DVD,2020,23.8
+5,DVD,2021,17.6
+5,DVD,2022,13.0
+5,DVD,2023,11.7
+5,DVD,2024,8.4
+6,VCR,2008,7.1
+6,VCR,2009,6.4
+6,VCR,2010,5.6
+6,VCR,2011,3.6
+6,VCR,2012,2.8
+6,VCR,2013,2.0
+6,VCR,2014,1.1
+6,VCR,2015,0.9
+6,VCR,2016,0.9
+6,VCR,2017,0.7
+6,VCR,2018,0.7
+6,VCR,2019,0.6
+6,VCR,2020,0.3
+6,VCR,2021,0.4
+6,VCR,2022,0.3
+6,VCR,2023,0.2
+6,VCR,2024,0.3
+7,PC,2008,17.7
+7,PC,2009,20.8
+7,PC,2010,22.6
+7,PC,2011,23.7
+7,PC,2012,28.5
+7,PC,2013,30.1
+7,PC,2014,30.6
+7,PC,2015,32.4
+7,PC,2016,33.2
+7,PC,2017,32.9
+7,PC,2018,32.4
+7,PC,2019,32.1
+7,PC,2020,33.1
+7,PC,2021,33.6
+7,PC,2022,32.9
+7,PC,2023,32.9
+7,PC,2024,32.1
+8,Iron,2008,57.2
+8,Iron,2009,58.4
+8,Iron,2010,58.4
+8,Iron,2011,55.9
+8,Iron,2012,57.7
+8,Iron,2013,57.4
+8,Iron,2014,55.6
+8,Iron,2015,59.0
+8,Iron,2016,57.6
+8,Iron,2017,56.1
+8,Iron,2018,54.3
+8,Iron,2019,54.1
+8,Iron,2020,52.9
+8,Iron,2021,44.3
+8,Iron,2022,39.9
+8,Iron,2023,45.2
+8,Iron,2024,42.6
+9,Blender,2008,53.9
+9,Blender,2009,57.4
+9,Blender,2010,57.5
+9,Blender,2011,55.5
+9,Blender,2012,58.3
+9,Blender,2013,58.7
+9,Blender,2014,58.0
+9,Blender,2015,62.6
+9,Blender,2016,62.1
+9,Blender,2017,61.7
+9,Blender,2018,61.7
+9,Blender,2019,63.7
+9,Blender,2020,66.7
+9,Blender,2021,63.1
+9,Blender,2022,58.5
+9,Blender,2023,64.9
+9,Blender,2024,62.9
+10,Gas Stove,2008,65.6
+10,Gas Stove,2009,67.9
+10,Gas Stove,2010,69.6
+10,Gas Stove,2011,68.3
+10,Gas Stove,2012,71.2
+10,Gas Stove,2013,73.6
+10,Gas Stove,2014,76.7
+10,Gas Stove,2015,83.9
+10,Gas Stove,2016,85.0
+10,Gas Stove,2017,86.8
+10,Gas Stove,2018,85.8
+10,Gas Stove,2019,87.5
+10,Gas Stove,2020,89.8
+10,Gas Stove,2021,88.9
+10,Gas Stove,2022,85.8
+10,Gas Stove,2023,87.5
+10,Gas Stove,2024,85.7
+12,Refrigerator,2008,39.4
+12,Refrigerator,2009,42.3
+12,Refrigerator,2010,42.4
+12,Refrigerator,2011,40.7
+12,Refrigerator,2012,44.7
+12,Refrigerator,2013,45.4
+12,Refrigerator,2014,45.8
+12,Refrigerator,2015,50.4
+12,Refrigerator,2016,51.1
+12,Refrigerator,2017,51.7
+12,Refrigerator,2018,51.7
+12,Refrigerator,2019,53.5
+12,Refrigerator,2020,54.4
+12,Refrigerator,2021,54.7
+12,Refrigerator,2022,52.5
+12,Refrigerator,2023,53.9
+12,Refrigerator,2024,53.2
+13,Washer,2008,15.7
+13,Washer,2009,17.4
+13,Washer,2010,18.1
+13,Washer,2011,18.6
+13,Washer,2012,21.5
+13,Washer,2013,22.1
+13,Washer,2014,22.9
+13,Washer,2015,26.9
+13,Washer,2016,26.6
+13,Washer,2017,27.6
+13,Washer,2018,27.8
+13,Washer,2019,29.9
+13,Washer,2020,28.7
+13,Washer,2021,29.9
+13,Washer,2022,28.3
+13,Washer,2023,29.6
+13,Washer,2024,28.7
+14,Microwave Oven,2008,13.7
+14,Microwave Oven,2009,16.0
+14,Microwave Oven,2010,16.6
+14,Microwave Oven,2011,16.5
+14,Microwave Oven,2012,18.6
+14,Microwave Oven,2013,19.1
+14,Microwave Oven,2014,18.4
+14,Microwave Oven,2015,20.1
+14,Microwave Oven,2016,19.8
+14,Microwave Oven,2017,19.4
+14,Microwave Oven,2018,18.6
+14,Microwave Oven,2019,18.9
+14,Microwave Oven,2020,18.1
+14,Microwave Oven,2021,13.8
+14,Microwave Oven,2022,12.7
+14,Microwave Oven,2023,15.4
+14,Microwave Oven,2024,14.1
